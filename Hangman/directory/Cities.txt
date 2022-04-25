@@ -1,0 +1,67 @@
+﻿Osijek
+Rijeka
+Split
+Zagreb
+Bjelovar
+Dubrovnik
+Karlovac
+Kaštela
+Pula
+Samobor
+Šibenik
+Sisak
+Slavonski Brod
+Varaždin
+Velika Gorica
+Vinkovci
+Zadar
+Beli Manastir
+Belišće
+Benkovac
+Čakovec
+Crikvenica
+Đakovo
+Daruvar
+Duga Resa
+Dugo Selo
+Garešnica
+Gospić
+Imotski
+Ivanec
+Ivanić-Grad
+Jastrebarsko
+Kastav
+Knin
+Koprivnica
+Krapina
+Križevci
+Kutina
+Labin
+Makarska
+Metković
+Našice
+Nova Gradiška
+Novi Marof
+Novska
+Ogulin
+Omiš
+Opatija
+Petrinja
+Pleternica
+Ploče
+Poreč
+Požega
+Rovinj
+Sinj
+Slatina
+Solin
+Sveta Nedelja
+Sveti Ivan Zelina
+Trogir
+Umag
+Valpovo
+Virovitica
+Vrbovec
+Vukovar
+Zaprešić
+Županja
